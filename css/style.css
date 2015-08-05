@@ -1,0 +1,47 @@
+body{
+     font-family: 'Lato', sans-serif;
+	 color:#747704;
+	 font-weight:300;
+}
+.text-muted{
+     color:#BCBBBB;
+	 font-weight:600;
+	 font-size:35px;
+	
+}
+
+.text-thin{
+     font-weight:200;
+}
+
+.title-super{
+     font-size:60px;
+}
+.title-logo{
+     margin-top:20px;
+}
+.text-h3{
+    font-size:35px;
+	font-weight:600;
+	
+}
+
+.text-extra-bond{
+    font-size:18px;
+	font-weight:600;
+	
+}
+
+.row2{
+   margin-top:30px;
+   margin-left:1px;
+   margin-bottom:10px;
+}
+
+hr{
+    border:none;
+    height:4px;
+	color: #ccc;
+	background-color: #ccc;
+	margin-bottom:40px;
+}
